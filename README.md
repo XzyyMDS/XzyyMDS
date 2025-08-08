@@ -17,12 +17,12 @@
 
 </div>
 
-- 👤 Name : XzyyMDS
-- 🎯 Age : 1X
-- 📆 Born : 20XX (7 February)
-- ♒ Zodiac : Aquarius
-- 🇮🇩 Region : Indonesia
-- 🎧 Hobbies : Coding, Game, Music, Anime
+- 👤 Name: XzyyMDS
+- 🎯 Age: 1X
+- 📆 Born: 20XX (7 February)
+- ♒ Zodiac: Aquarius
+- 🇮🇩 Country: Indonesia
+- 🎧 Hobbies: Coding, Game, Music, Anime
 
 ---
 

@@ -61,5 +61,7 @@
  
  <div align="center">
  
- <footer>© XzyyMDS - 2025</footer>
+ *__"Every disadvantage has an advantage."__*
+ 
+ **<footer>© XzyyMDS - 2025</footer>**
  </div>

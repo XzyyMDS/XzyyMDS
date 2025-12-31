@@ -63,5 +63,5 @@
  
  *__"Every disadvantage has an advantage."__*
  
- **<footer>© XzyyMDS - 2025</footer>**
+ **<footer>© XzyyMDS - 2026</footer>**
  </div>

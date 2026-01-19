@@ -22,6 +22,7 @@
 - 📆 Born: 20XX (7 February)
 - ♒ Zodiac: Aquarius
 - 🇮🇩 Country: Indonesia
+- 💠 Location: South Kalimantan
 - 🎧 Hobbies: Coding, Game, Music, Anime
 
 ---

@@ -54,7 +54,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+    ![Node.js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933)
     
  </div>
  

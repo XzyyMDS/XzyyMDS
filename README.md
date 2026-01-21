@@ -53,7 +53,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
 
-![CSS](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=css&logoColor=007bff)
+![CSS](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css&logoColor=007bff)
 
 ![Express.js](https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white)
 

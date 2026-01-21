@@ -52,11 +52,8 @@
 <h2>🛠 Skills</h2>
 
 ![HTML](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
-
-![CSS](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=css3&logoColor=007bff)
-
+![CSS](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=css&logoColor=007bff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 ![Node.js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933)
     
  </div>

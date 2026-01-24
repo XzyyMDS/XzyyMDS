@@ -1,8 +1,4 @@
-<div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There%2C+I'm+Mishuzo+XzyyMDS;Thanks+for+visiting+my+profile;Let's+make+awesome+thing" alt="Typing SVG" /></a>
-
-</div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There%2C+I'm+Mishuzo+XzyyMDS;Thanks+for+visiting+my+profile;Let's+make+awesome+thing" alt="Typing SVG" /></a></div>
 
 ---
 
@@ -18,8 +14,7 @@
 </div>
 
 - 👤 Name: XzyyMDS
-- 🎯 Age: 1X
-- 📆 Born: 20XX (7 February)
+- 📆 Born: 7 February
 - ♒ Zodiac: Aquarius
 - 🇮🇩 Country: Indonesia
 - 💠 Location: South Kalimantan

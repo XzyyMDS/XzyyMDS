@@ -33,7 +33,7 @@
   <a href="https://github.com/XzyyMDS" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
 </a>
-  <a href="https://t.me/M5R4ALN" target="_blank">
+  <a href="https://t.me/xzyymds" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" alt="Telegram" />
   </a>
 <a href="https://wa.me/6283150827632" target="_blank">

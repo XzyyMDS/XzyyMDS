@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<h2>🛠 Skills</h2>
+<h2>🛠 Skill</h2>
 
 ![HTML](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
 
@@ -69,5 +69,5 @@
  
  *__"Every disadvantage has an advantage."__*
  
- **<footer>© XzyyMDS - 2026 🇮🇩</footer>**
+ **<footer>© XzyyMDS - 2026</footer>**
  </div>

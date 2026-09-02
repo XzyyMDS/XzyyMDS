@@ -68,6 +68,7 @@
  <div align="center">
  
  *__"Every disadvantage has an advantage."__*
+ *#PrayForKalimantan*
  
  **<footer>© XzyyMDS - 2026</footer>**
  </div>

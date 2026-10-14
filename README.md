@@ -69,6 +69,7 @@
  
  *__"Every disadvantage has an advantage."__*
  *#PrayForKalimantan*
+ *#PrayForSumatera*
  
  **<footer>© XzyyMDS - 2026</footer>**
  </div>
